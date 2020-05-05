@@ -1,4 +1,4 @@
-#Automative test - Krzysztof Jasinski
+#Automative test
 
 require 'selenium-webdriver'
 require 'rspec'
